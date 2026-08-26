@@ -54,19 +54,3 @@ Tamil
 
 Provides voice-based interaction where supported by the configured application features.
 
-🛠️ Technologies Used
-Python
-Streamlit
-Google Gemini AI
-Machine Learning
-Pandas
-NumPy
-Scikit-learn
-Joblib
-Plotly
-HTML/CSS
-<<<<<<< HEAD
-GitHub
-=======
-GitHub
->>>>>>> 0c10b16 (Save local changes before sync)
