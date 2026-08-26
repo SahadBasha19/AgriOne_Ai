@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+google-genai
+gTTS
+SpeechRecognition
+requests
+pandas
+scikit-learn
+streamlit-lottie
+ultralytics
+opencv-python-headless
+Pillow
