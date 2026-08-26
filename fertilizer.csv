@@ -1,0 +1,21 @@
+Temperature,Humidity,Moisture,Soil_Type,Crop_Type,Nitrogen,Potassium,Phosphorous,Fertilizer_Name
+26,52,38,Sandy,Maize,37,0,0,Urea
+29,52,45,Loamy,Sugarcane,12,0,36,DAP
+34,65,62,Black,Cotton,7,9,30,14-35-14
+32,62,34,Red,Tobacco,22,0,20,28-28
+28,54,46,Clayey,Paddy,35,0,0,Urea
+27,60,42,Loamy,Wheat,10,10,20,NPK
+31,58,40,Sandy,Groundnut,12,15,15,NPK
+25,70,55,Clayey,Rice,25,0,20,DAP
+33,50,35,Black,Cotton,20,15,10,MOP
+30,55,48,Red,Tomato,18,12,18,Organic Compost
+29,65,50,Loamy,Potato,15,15,15,Vermicompost
+35,45,30,Sandy,Maize,40,5,5,Urea
+24,75,65,Clayey,Rice,20,10,30,DAP
+27,68,52,Loamy,Sugarcane,18,18,18,NPK
+32,60,40,Black,Groundnut,12,20,12,MOP
+28,62,45,Red,Tomato,16,16,16,Organic Compost
+26,58,42,Sandy,Wheat,22,12,10,Urea
+31,57,46,Loamy,Potato,14,18,20,Vermicompost
+29,63,54,Clayey,Rice,24,8,28,DAP
+34,49,36,Black,Cotton,18,22,10,MOP
